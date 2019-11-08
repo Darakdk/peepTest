@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "339142674518",
+    "firebase_url": "https://peeptest-17b1b.firebaseio.com",
+    "project_id": "peeptest-17b1b",
+    "storage_bucket": "peeptest-17b1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339142674518:android:5db8f72ebf22fe7467d3f7",
+        "android_client_info": {
+          "package_name": "com.example.peeptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339142674518-hv7al8ha6ddufp99p13k4skosfac57o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDKe8c-Rczeoeo28xpDbeJ2eFcQyFjKaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339142674518-hv7al8ha6ddufp99p13k4skosfac57o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
